@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller
+build/
+*.spec
+
+# Engine binaries (downloaded at setup; too big for git)
+bin/
+ffmpeg/
+dist/
+
+# Local tests
+test_out/
